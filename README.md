@@ -6,5 +6,6 @@
 - When an image is clicked, a new screen opens, presenting the selected image in full-screen mode.
 - In case of any errors during API communication, alerts are used to provide error feedback to the user.
 
-Demo:
+Demo:    
+
 ![app demo](demo.gif)
